@@ -1,7 +1,7 @@
 # Certified Corridor Search — code, data and paper sources
 
 Supplementary material for *Certified Corridor Search on Grid Maps* (A. Elshahed and M. K. B. Majahar Ali,
-Universiti Sains Malaysia; submitted to JAIR).
+Universiti Sains Malaysia; submitted to Expert Systems with Applications).
 
 ```
 code/         C++17 implementation and the Python pipeline that produced every number in Section 7
